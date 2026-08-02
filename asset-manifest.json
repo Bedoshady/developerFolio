@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/developerFolio/static/css/main.1cd1ee8d.css",
-    "main.js": "/developerFolio/static/js/main.03978575.js",
+    "main.js": "/developerFolio/static/js/main.4051ef99.js",
     "static/css/64.bba8fa55.chunk.css": "/developerFolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/developerFolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/developerFolio/static/css/769.b3cbb36b.chunk.css",
@@ -13,8 +13,8 @@
     "static/media/chess.png": "/developerFolio/static/media/chess.766c908dc3d4118d674b.png",
     "static/media/Agustina.woff": "/developerFolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/yec_junior_design_award.jpg": "/developerFolio/static/media/yec_junior_design_award.d6b9b433358f910c3b3f.jpg",
-    "static/media/bwell_health_startup.png": "/developerFolio/static/media/bwell_health_startup.213a04b19eeef1f90487.png",
     "static/media/manOnTable.svg": "/developerFolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/competitor_intelligence_scraper.png": "/developerFolio/static/media/competitor_intelligence_scraper.c1e38271c35dac97e517.png",
     "static/media/york_university_logo.jpg": "/developerFolio/static/media/york_university_logo.763ad8f3980f20a19902.jpg",
     "static/media/award.jpg": "/developerFolio/static/media/award.dd80ad0430f23714fdee.jpg",
     "static/media/contactMailDark.svg": "/developerFolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
@@ -26,7 +26,7 @@
     "index.html": "/developerFolio/index.html",
     "static/media/talksCardBack.svg": "/developerFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.1cd1ee8d.css.map": "/developerFolio/static/css/main.1cd1ee8d.css.map",
-    "main.03978575.js.map": "/developerFolio/static/js/main.03978575.js.map",
+    "main.4051ef99.js.map": "/developerFolio/static/js/main.4051ef99.js.map",
     "64.bba8fa55.chunk.css.map": "/developerFolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/developerFolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/developerFolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -34,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.1cd1ee8d.css",
-    "static/js/main.03978575.js"
+    "static/js/main.4051ef99.js"
   ]
 }
